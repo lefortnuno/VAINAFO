@@ -25,7 +25,7 @@ export default function Home() {
 
         <div className="space-y-6">
           <p>
-            VAiN'AF est un groupe malgache composé de quatre artistes
+            VAiN&apos;AF est un groupe malgache composé de quatre artistes
             originaires de Tuléar. Leur musique se distingue par un mélange
             unique de punk, de pop rock et de rythmes traditionnels du sud de
             Madagascar.
@@ -38,7 +38,7 @@ export default function Home() {
           <p>
             Leurs textes abordent des thèmes profonds : lutte, transformation,
             héritage culturel et affirmation identitaire. En fusionnant le
-            moderne et l'ancré, VAiN'AF offre un son percutant et sincère.
+            moderne et l&apos;ancré, VAiN&apos;AF offre un son percutant et sincère.
           </p>
         </div>
 
@@ -112,8 +112,8 @@ export default function Home() {
             <ul className="list-disc list-inside space-y-2 ml-10">
               <li>Fest’Iray à Antsirabe</li>
               <li>Festival de l’écologie à Antsirabe</li>
-              <li>Concert au CRAAM à l'Université d’Antananarivo</li>
-              <li>Festival Indie Indri à l'Alliance Française Antananarivo </li>
+              <li>Concert au CRAAM à l&apos;Université d’Antananarivo</li>
+              <li>Festival Indie Indri à l&apos;Alliance Française Antananarivo </li>
               <li>Concert au Madagascar Underground</li>
               <li>Concert à La Teinturerie</li>
               <li>Fête de la Musique au Vakok’Arts Trano</li>
@@ -180,7 +180,7 @@ export default function Home() {
             <span className="block mt-1 text-gray-600">12 mai 2025</span>
           </p>
           <p className="flex-1 min-w-[300px]">
-            <strong>Publication Facebook</strong> d'Eddy Andrianarisoa (leader
+            <strong>Publication Facebook</strong> d&apos;Eddy Andrianarisoa (leader
             du groupe The Dizzy Brains)
           </p>
         </div>
@@ -333,7 +333,7 @@ export default function Home() {
             {/* Branding */}
             <div className="text-center md:text-right">
               <h3 className="text-xl font-bold mb-4 text-yellow-400">
-                VAiN'AF
+                VAiN&apos;AF
               </h3>
               <p className="text-gray-300 text-lg font-semibold">
                 Groupe Musical Malgache
